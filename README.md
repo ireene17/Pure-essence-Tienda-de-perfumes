@@ -29,7 +29,7 @@ El proyecto sigue una estructura modular para facilitar el mantenimiento:
 * **Módulos específicos**: Archivos dedicados para `index`, `tienda`, `productos`, `carro` y `formContacto`, asegurando que cada sección tenga estilos independientes y organizados.
 
 ## Instalación y Uso
-1. **Clona este repositorio**.
+**Clona este repositorio**
    
 ```
  npm install sobre la terminal en la carpeta del proyecto
