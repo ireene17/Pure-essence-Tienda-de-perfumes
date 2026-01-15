@@ -53,11 +53,26 @@ Proyecto creado por **Irene Smykla Jiménez*** para el aprendizaje en el desarro
 ### Imágenes del Proyecto
 **Inicio:**
 
+![Hero con video y presentacion a la web](heroPureEssence.png)
+
+![Hero con video y presentacion a la web](Scroll1HoverPureEssence.png)
+
 **Scroll aplicado:**
+
+![Hero con video y presentacion a la web](Scroll2PureEssence.png)
 
 **Vista del footer**
 
+![Hero con video y presentacion a la web](FooterPureEssence.png)
+
 **Vista de un producto**
 
+![Hero con video y presentacion a la web](ProductoIndivPureEssence.png)
+
 **Productos**
+
+![Hero con video y presentacion a la web](Productos3dPureEssence.png)
+
+![Hero con video y presentacion a la web](ProductosHoverInfoPureEssence.png)
+
 
